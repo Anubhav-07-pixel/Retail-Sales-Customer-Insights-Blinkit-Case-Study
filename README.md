@@ -29,7 +29,7 @@ In this project, I analyzed over **85,000+ transactions** across **10 outlet typ
 - **Power BI**: Dashboard creation and KPI visualization
 - **Excel**: Data cleaning, feature engineering
 - **DAX**: Custom measures and metrics
-- **SQL (optional)**: Simulated queries for logical problem-solving (not used in dashboard)
+- **SQL**: Simulated queries for logical problem-solving
 
 ---
 
@@ -41,7 +41,7 @@ The Power BI dashboard includes:
 - KPI cards for total sales, average sales, and category-wise performance
 - Interactive slicers for real-time filtering across multiple variables
 
-📸 **[Add screenshot here if available]**
+📸 **Dashboard_ss.png**
 
 ---
 
